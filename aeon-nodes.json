@@ -1,0 +1,173 @@
+{
+  "nodes": [
+    {
+      "name": "'hashvault.pro' public node",
+      "url": "54.37.87.203",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node1' public node",
+      "url": "108.61.251.120",
+      "port": 11181,
+      "ssl": false
+    },
+     {
+      "name": "'node2' public node",
+      "url": "77.246.162.88",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node3' public node",
+      "url": "69.195.136.125",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node4' public node",
+      "url": "104.223.73.190",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node5' public node",
+      "url": "128.199.179.100",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node6' public node",
+      "url": "159.69.19.199",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node7' public node",
+      "url": "139.59.59.176",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node8' public node",
+      "url": "18.222.189.124",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node9' public node",
+      "url": "95.216.145.71",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node10' public node",
+      "url": "181.41.220.232",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node11' public node",
+      "url": "47.75.218.136",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node12' public node",
+      "url": "123.249.4.254",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node13' public node",
+      "url": "138.68.8.249",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node14' public node",
+      "url": "103.14.141.231",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node15' public node",
+      "url": "149.28.125.235",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node16' public node",
+      "url": "149.28.19.82",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'node17' public node",
+      "url": "139.99.195.96",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'us1.aeon-wallet.net' public node",
+      "url": "52.3.235.156",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'us2.aeon-wallet.net' public node",
+      "url": "50.63.13.223",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'nz1.aeon-wallet.net' public node",
+      "url": "185.99.133.190",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'za1.aeon-wallet.net' public node",
+      "url": "169.239.128.143",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'in1.aeon-wallet.net' public node",
+      "url": "139.59.59.176",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'sg1.aeon-wallet.net' public node",
+      "url": "128.199.179.100",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'uk1.aeon-wallet.net' public node",
+      "url": "178.128.38.162",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'ca1.aeon-wallet.net' public node",
+      "url": "138.197.164.125",
+      "port": 11181,
+      "ssl": false
+    },
+    {
+      "name": "'au1.aeon-wallet.net' public node",
+      "url": "139.99.195.96",
+      "port": 11181,
+      "ssl": false
+    },
+
+    {
+      "name": "'nodelast' public node",
+      "url": "54.37.87.203",
+      "port": 11181,
+      "ssl": false
+    }
+  ]
+}
